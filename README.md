@@ -2,6 +2,16 @@
 
 這是我的第一個網站，也是第一個網頁
 
+```c
+
+#include <stdio.h>
+int main()
+{
+printf("hello world");
+}
+
+
+```
 
 ## 推薦影片
 ![圖片](https://i.imgur.com/SV2i4LY.jpg)
